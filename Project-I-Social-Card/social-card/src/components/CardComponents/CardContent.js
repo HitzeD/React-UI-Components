@@ -5,7 +5,7 @@ const CardContent = () => {
     return (
         <div className="card-content">
             <h3>Get started with React</h3>
-            <p>React makes it painless to create interactive UI's. Design simple
+            <p className="cont-para">React makes it painless to create interactive UI's. Design simple
                 for each state in your application.
             </p>
         </div>
