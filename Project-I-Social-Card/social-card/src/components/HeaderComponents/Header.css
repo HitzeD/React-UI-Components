@@ -1,1 +1,7 @@
-/* All styles for your header Components live here */
+.top-page {
+    display: flex;
+}
+
+.head-titles {
+    display: flex;
+}
