@@ -1,1 +1,15 @@
 /* All styles for your Card Components live here */
+.banner-img {
+    width: 300px;
+    position: relative;
+    left: 45px;
+    
+}
+
+.card-content {
+    border: 1px solid gray;
+    border-radius: 5px;
+    width: 299px;
+    margin-top: -5px;
+    margin-left: 45px;
+}

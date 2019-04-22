@@ -1,4 +1,11 @@
+body {
+  font-size: 62.5%;
+  width: 400px;
+}
 
+h1 {
+  font-size: 1.4rem; 
+}
 
 /* 
   Write your styles/CSS for App.js here and import into the component that you need 
