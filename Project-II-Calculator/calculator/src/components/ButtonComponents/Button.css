@@ -1,0 +1,35 @@
+.action {
+    border: 1px solid black;
+    width: 74.2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.numBut {
+    width: 24%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    background-color: red;
+    color: white;
+    width: 24%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.default {
+    background-color: white;
+    color: black;
+    width: 24%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
