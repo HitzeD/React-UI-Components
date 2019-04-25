@@ -1,0 +1,6 @@
+.main-file {
+    width: 40%;
+    display: flex;
+    flex-flow: row wrap;
+    box-sizing: border-box;
+}

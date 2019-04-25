@@ -1,0 +1,46 @@
+.action {
+    border: 1px solid black;
+    width: 74.2%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.numBut {
+    width: 24%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.red {
+    background-color: red;
+    color: white;
+    width: 24%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.default {
+    background-color: white;
+    color: black;
+    width: 24%;
+    border: 1px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+}
+
+.lift{
+    width: 24.4%;
+}
+
+.push {
+    width: 24.1%;
+}
